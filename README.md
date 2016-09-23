@@ -7,6 +7,8 @@ Can't do much about the first problem, but by blocking the .css file and inserti
 
 It should be noted that the script is not (yet) able to reproduce the full functionality of the site. Its main goal is to make browsing possible. Backing or creating projects will probably always require to load the site with the adblocker and Greasemonkey disabled.
 
+
 How to use the scripts:
+
 1. Block the CSS files by adding "||static.kickstarter.com/assets/packages/*" to an adblocker.
 2. Add the Greasemonkey scripts gmKickstarter-overview.js and gmKickstarter-project.js.
